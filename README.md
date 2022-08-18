@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DopeeDev
 - 👀 I’m interested in C++ and Lua
-- 🌱 I’m currently learning C++ and Lua
+- 🌱 I’m currently learning  Lua
 - 📫 How to reach me ...
 
 <!---
